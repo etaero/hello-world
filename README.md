@@ -1,5 +1,5 @@
 # hello-world
 Lana desu //
 Want to learn code.
-Study spark ar.
+Study Spark AR.
 Have a problem with 'R' on keyboard :)
